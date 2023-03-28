@@ -1,4 +1,7 @@
 %%%%DOMIAN%%%%%
+%Este proyecto simula una inteligencia artificial para jugar dominó
+%Este proyecto fue el ganador del concurso interno de la Universidad, en el que se 
+%compitió contra alrededor de 20 proyectos programados por otros estudiantes del ITAM.
 %Autores
 %Martin Fabre Garcia 200330
 %Aldahir López Navarrete 198069
