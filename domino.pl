@@ -2,11 +2,11 @@
 %Este proyecto simula una inteligencia artificial para jugar dominó
 %Este proyecto fue el ganador del concurso interno de la Universidad, en el que se 
 %compitió contra otros proyectos programados por otros estudiantes del ITAM.
-%Autores
-%Martin Fabre Garcia 200330
-%Aldahir López Navarrete 198069
-%Omar de Jesus Cruz Gloria 196903
-%Angel Enrique Alvarado Ramos 197341
+%Autores:
+%Martin Fabre Garcia 
+%Aldahir López Navarrete 
+%Omar de Jesus Cruz Gloria 
+%Angel Enrique Alvarado Ramos 
 
 
 :- dynamic ficha/2.
